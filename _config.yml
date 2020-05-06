@@ -32,13 +32,13 @@ avatar: "/img/FB_IMG_1581158036723.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#006400"
+navbar-col: "#8B0000"
 navbar-text-col: "#C0C0C0"
-navbar-children-col: "#006400"
+navbar-children-col: "#8B0000"
 page-col: "#C0C0C0"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#006400"
+footer-col: "#8B0000"
 footer-text-col: "#C0C0C0"
 footer-link-col: "#404040"
 
