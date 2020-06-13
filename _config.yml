@@ -13,7 +13,7 @@ description: IT EXPERT
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Covid19 Visualizer: "https://www.covidvisualizer.com/"
+  Blog: "blog"
   Projects: "projects"
   Visualize My Experience: 
     - Skills By Tech: "infographic"
