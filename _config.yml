@@ -13,9 +13,9 @@ description: IT EXPERT
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-#  Blog: "https://dazamuke.github.io" #
+Blog: "https://dazamuke.github.io" 
   Projects: "projects"
-  Visualize My Experience: 
+  Experience: 
     - Skills By Tech: "infographic"
     - Areas of Expertise: "areasexpertise"
     - My Resume: "resume"
@@ -32,13 +32,13 @@ avatar: "/img/FB_IMG_1581158036723.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#8B0000"
+navbar-col: "#0000FF"
 navbar-text-col: "#C0C0C0"
-navbar-children-col: "#8B0000"
+navbar-children-col: "#0000FF"
 page-col: "#C0C0C0"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#8B0000"
+footer-col: "#0000FF"
 footer-text-col: "#C0C0C0"
 footer-link-col: "#404040"
 
