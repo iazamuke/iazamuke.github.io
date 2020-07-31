@@ -4,7 +4,7 @@
 
 
 
-#itle: Azamuke Denish
+title: Azamuke Denish
 
 # Short description of your site
 description: programming
@@ -16,7 +16,7 @@ description: programming
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-Blog: "https://dazamuke.github.io" 
+  Blog:      "https://dazamuke.github.io" 
   Projects: "projects"
   Experience: 
     - Skills By Tech: "infographic"
